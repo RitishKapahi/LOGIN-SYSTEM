@@ -1,0 +1,13 @@
+# Compiled Windows executables
+*.exe
+
+# Local account and personal organizer data
+users.dat
+activity.log
+tasks.txt
+notes.txt
+expenses.txt
+contacts.txt
+
+# Empty local placeholder in this folder
+/sp
